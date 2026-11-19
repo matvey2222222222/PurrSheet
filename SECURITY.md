@@ -24,6 +24,7 @@
 
 Если хотите зашифровать сообщение — напишите заранее, пришлём публичный ключ.
 
+Вы можете сообщить об уязвимости через [GitHub Security Advisories](https://github.com/matvey2222222222/PurrSheet/security/advisories/new)
 ---
 
 ## ⏱️ Сроки реакции
