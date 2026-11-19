@@ -193,7 +193,7 @@
 
 ## 👨‍💻 О разработчике
 
-**PurrSheet** разработан компанией **MeowSoftware**.
+**PurrSheet** разработан matvey2222222222 из команды MeowSoftware.
 
 ---
 
@@ -206,7 +206,7 @@
 
 <div align="center">
 
-**Сделано с ❤ и 🐾 компанией MeowSoftware**
+**Сделано с ❤ и 🐾**
 
 [🐱 Скачать PurrSheet](https://github.com/matvey2222222222/PurrSheet/releases)
 
